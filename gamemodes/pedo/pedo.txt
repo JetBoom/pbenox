@@ -1,0 +1,20 @@
+"pedo"
+{
+	"base"		"base"
+	"title"		"Pedobear"
+	"maps"		"^pb_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"pbe2_rounds"
+			"text"		"Rounds to play before map change."
+			"help"		"Number of rounds to play map change should be invoked."
+			"type"		"numeric"
+			"default"	"10"
+		}
+	}
+
+}

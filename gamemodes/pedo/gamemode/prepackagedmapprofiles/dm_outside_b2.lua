@@ -1,0 +1,1 @@
+SRL={{["Angles"]=Angle(0,0,0),["Position"]=Vector(-6340.9638671875,2861.9665527344,-3.9687652587891),["Class"]="pb_spawn"},{["Angles"]=Angle(0,0,0),["Position"]=Vector(-6089.7006835938,6289.9931640625,-3.9687652587891),["Class"]="pb_spawn"}}

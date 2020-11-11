@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pbe2/pedobearhdright"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

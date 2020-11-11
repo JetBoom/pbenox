@@ -1,0 +1,1 @@
+SRL={{["Angles"]=Angle(0,87.676719665527,0),["Position"]=Vector(-1630.9559326172,1563.6154785156,205.70668029785),["Class"]="pb_spawn"},{["Angles"]=Angle(0,0,0),["Position"]=Vector(501.45620727539,-489.19549560547,261.88049316406),["Class"]="prop_blocker_ceiling"}}

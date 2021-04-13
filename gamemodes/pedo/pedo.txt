@@ -3,6 +3,7 @@
 	"base"		"base"
 	"title"		"Pedobear"
 	"maps"		"^pb_"
+	"category"	"pvp"
 	"menusystem"	"1"
 
 	"settings"
